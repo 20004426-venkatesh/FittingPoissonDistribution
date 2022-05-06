@@ -63,7 +63,7 @@ else:
 
 # Output : 
 
-![image]()
+![image](https://github.com/20004426-venkatesh/FittingPoissonDistribution/blob/main/math1.png)
 
 # Result :
 Thus,poission distribution is verified successfully
